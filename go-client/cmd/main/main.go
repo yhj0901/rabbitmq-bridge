@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	"go-client/pkg/rabbitmq"
+	"github.com/yhj0901/rabbitmq-bridge/go-client/pkg/rabbitmq"
 )
 
 func main() {
